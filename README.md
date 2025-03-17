@@ -8,15 +8,8 @@ Q.1.1.1 :
 
 ![image](https://github.com/user-attachments/assets/f3440880-44cc-45e1-b7f0-27318f457e21)
 
-Q.1.1.2 : Créer une OU DeactivatedUsers et déplacer le compte désactivé de Kelly Rhameur dedans
-Dans UOAD, faites un clic droit sur le domaine ou une autre OU existante.
+Q.1.1.2 : 
 
-Choisissez Nouvelle > Unité d'organisation (OU).
-
-Nommez cette OU "DeactivatedUsers" et validez.
-
-Désactivez le compte de Kelly Rhameur :
-Clic droit sur son compte, puis Désactiver le compte.
 ![image](https://github.com/user-attachments/assets/2f69eddd-b76b-454f-893e-5b2ec446fe18)
 
 Déplacez le compte vers "DeactivatedUsers" :
