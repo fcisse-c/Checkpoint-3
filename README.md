@@ -115,6 +115,7 @@ Q.2.5.1 - Règles actuelles de Netfilter
 ![image](https://github.com/user-attachments/assets/fa92407b-5a90-4e12-86e4-02e88230447a)
 
 Q.2.5.2 
+
 ![image](https://github.com/user-attachments/assets/8c86f43a-a588-44bf-ba44-650ee090cb6d)
 
 
@@ -123,3 +124,11 @@ Q.2.5.3 :  types qui sont interdit : c'est d'examiner la configuration actuelle 
 sudo nft list ruleset
 
 et Chercher les règles DROP ou REJECT.
+
+
+Q.2.5.4
+
+### Partie 6 : Analyse de logs
+
+Q.2.6.1 
+![image](https://github.com/user-attachments/assets/4cc30f05-a53e-4822-8baa-465afd515796)
