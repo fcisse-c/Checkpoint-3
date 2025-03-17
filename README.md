@@ -41,3 +41,10 @@ Q.1.3.1
 
 ![image](https://github.com/user-attachments/assets/2469babe-4791-42e0-9a7f-6f81be5329c8)
 
+## Exercice 2 : Manipulations pratiques sur VM Linux
+
+### Partie 1 : Gestion des utilisateurs
+
+Q.2.1.1 
+
+![image](https://github.com/user-attachments/assets/aa7faf95-28a3-4b45-a0e7-4b02ab428877)
