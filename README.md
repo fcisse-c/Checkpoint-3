@@ -73,4 +73,7 @@ Q.2.2.3 - Mettre en place une authentification par clé valide et désactiver l'
 
 ![Capture d'écran 2025-03-15 184222](https://github.com/user-attachments/assets/60e28201-762a-404b-8cc8-a933ac80b513)
 
+Mettre à jour les paramètres suivants :
+
+![image](https://github.com/user-attachments/assets/045c27eb-4093-4ede-b314-15ecff34b2e2)
 
