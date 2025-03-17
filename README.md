@@ -77,3 +77,13 @@ Mettre à jour les paramètres suivants :
 
 ![image](https://github.com/user-attachments/assets/045c27eb-4093-4ede-b314-15ecff34b2e2)
 
+### Partie 3 : Analyse du stockage
+
+Q.2.3.1 
+
+![image](https://github.com/user-attachments/assets/2090c7d5-cc00-4a49-874c-5f2fbb2b168c)
+
+
+Q.2.3.2 
+
+![image](https://github.com/user-attachments/assets/c3a96225-c7be-485d-bb98-34f9ef4af652)
