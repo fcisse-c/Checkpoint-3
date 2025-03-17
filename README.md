@@ -33,6 +33,7 @@ Q.1.2.3
 
 ![image](https://github.com/user-attachments/assets/bffb95b0-e258-4e2e-8dc4-5a4c438e6656)
 
+![image](https://github.com/user-attachments/assets/df0e7db8-9b7a-4eb3-8ddf-74eb7ffa24fc)
 
 
 ### Partie 3 : Lecteurs réseaux
