@@ -53,7 +53,12 @@ Q.2.1.1
 
 Q.2.1.2 
 
-![image](https://github.com/user-attachments/assets/6dfaad04-92cb-43f5-98f6-fdd192b8cc94)
-
 ![image](https://github.com/user-attachments/assets/8d66cb2d-84d9-4580-b8b3-21a13b85b2d6)
 
+### Partie 2 : Configuration de SSH
+
+Q.2.2.1 
+
+![image](https://github.com/user-attachments/assets/6dfaad04-92cb-43f5-98f6-fdd192b8cc94)
+
+![image](https://github.com/user-attachments/assets/40429495-1653-446b-ad88-99884b2995f6)
