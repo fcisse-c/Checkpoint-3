@@ -92,10 +92,24 @@ Q.2.3.2
 
 Q.2.3.3 
 
-![image](https://github.com/user-attachments/assets/b192f32a-6c64-4064-97b5-b1b64cb1fb18)
-
-Q.2.3.4 Ajouter un nouveau volume logique LVM de 2 Gio qui servira à héberger des sauvegardes. Ce volume doit être monté automatiquement à chaque démarrage dans l'emplacement par défaut : /var/lib/bareos/storage.
-
-Q.2.3.5 Combien d'espace disponible reste-t-il dans le groupe de volume ?
+![image](https://github.com/user-attachments/assets/ad3de8ae-4530-4f0d-8aa0-1e183dc3743f)
 
 
+
+
+### Partie 4 : Sauvegardes
+
+Q.2.4.1 - Rôles des 3 composants de Bareos
+
+Director : Coordonne les sauvegardes.
+
+Storage Daemon : Stocke les sauvegardes.
+
+File Daemon : Gère les fichiers à sauvegarder.
+
+
+### Partie 5 : Filtrage et analyse réseau
+
+Q.2.5.1 - Règles actuelles de Netfilter
+
+![image](https://github.com/user-attachments/assets/fa92407b-5a90-4e12-86e4-02e88230447a)
