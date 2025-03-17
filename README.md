@@ -33,7 +33,6 @@ Q.1.2.3
 
 ![image](https://github.com/user-attachments/assets/bffb95b0-e258-4e2e-8dc4-5a4c438e6656)
 
-![image](https://github.com/user-attachments/assets/df0e7db8-9b7a-4eb3-8ddf-74eb7ffa24fc)
 
 ### Partie 3 : Lecteurs réseaux
 
@@ -76,6 +75,8 @@ Q.2.2.3 - Mettre en place une authentification par clé valide et désactiver l'
 Mettre à jour les paramètres suivants :
 
 ![image](https://github.com/user-attachments/assets/045c27eb-4093-4ede-b314-15ecff34b2e2)
+
+![image](https://github.com/user-attachments/assets/df0e7db8-9b7a-4eb3-8ddf-74eb7ffa24fc)
 
 ### Partie 3 : Analyse du stockage
 
