@@ -88,3 +88,14 @@ Q.2.3.1
 Q.2.3.2 
 
 ![image](https://github.com/user-attachments/assets/c3a96225-c7be-485d-bb98-34f9ef4af652)
+
+
+Q.2.3.3 
+
+![image](https://github.com/user-attachments/assets/b192f32a-6c64-4064-97b5-b1b64cb1fb18)
+
+Q.2.3.4 Ajouter un nouveau volume logique LVM de 2 Gio qui servira à héberger des sauvegardes. Ce volume doit être monté automatiquement à chaque démarrage dans l'emplacement par défaut : /var/lib/bareos/storage.
+
+Q.2.3.5 Combien d'espace disponible reste-t-il dans le groupe de volume ?
+
+
