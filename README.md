@@ -21,7 +21,27 @@ Q.1.1.4 : Archiver le dossier de Kelly Rhameur et créer celui de Lionel Lemarch
 Accédez à l'emplacement des profils utilisateurs sur le serveur.
 Compressez (archivez) le dossier de Kelly Rhameur, par exemple avec un outil comme ZIP.
 
-Déplacez l’archive dans un emplacement sécurisé ou dédié pour l’archivage.
+### Partie 2 : Restriction utilisateurs
+Q.1.2.1 Faire en sorte que l'utilisateur Gabriel Ghul ne puisse se connecter que du lundi au vendredi, de 7h à 17h.
 
-Créez un nouveau dossier pour Lionel Lemarchand, avec les mêmes permissions que Kelly Rhameur.
+![image](https://github.com/user-attachments/assets/1dd3286d-3d0d-47f2-9331-5fb5b2e8b443)
+
+Q.1.2.2 Bloquer sa connexion au seul ordinateur CLIENT01.
+
+![image](https://github.com/user-attachments/assets/34875723-6a93-4571-8f69-6aa3f790a89b)
+
+Q.1.2.3 Mettre en place une stratégie de mot de passe pour durcir les comptes des utilisateurs de l'OU LabUsers.
+Ouvrir Group Policy Management (GPMC) sur SRVWIN01.
+
+Créer une nouvelle GPO nommée PasswordPolicy_LabUsers.
+
+Modifier la GPO et configurer les paramètres suivants dans :
+Computer Configuration → Policies → Windows Settings → Security Settings → Account Policies → Password Policy :
+
+![image](https://github.com/user-attachments/assets/bffb95b0-e258-4e2e-8dc4-5a4c438e6656)
+
+Lier la GPO à l'OU .
+
+Forcer l'application de la stratégie avec :
+gpupdate /force
 
