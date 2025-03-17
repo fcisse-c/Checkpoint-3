@@ -62,3 +62,22 @@ Q.2.2.1
 ![image](https://github.com/user-attachments/assets/6dfaad04-92cb-43f5-98f6-fdd192b8cc94)
 
 ![image](https://github.com/user-attachments/assets/40429495-1653-446b-ad88-99884b2995f6)
+
+Q.2.2.2 - 
+
+![image](https://github.com/user-attachments/assets/7d4dcf8f-a9c5-4a3f-8bd5-12dfe6815837)
+
+
+![image](https://github.com/user-attachments/assets/a65ba013-e273-420d-91d8-d635e714ce63)
+
+
+Q.2.2.3 - Mettre en place une authentification par clé valide et désactiver l'authentification par mot de passe
+
+Générer une clé SSH sur la machine cliente :
+
+ssh-keygen -t rsa -b 4096
+
+Copier la clé publique sur le serveur :
+
+ssh-copy-id mon_utilisateur@adresse_du_serveur
+![image](https://github.com/user-attachments/assets/ddcc1125-0344-4e33-9008-dd8c1a3424b3)
