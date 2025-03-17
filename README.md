@@ -75,9 +75,9 @@ Q.2.2.3 - Mettre en place une authentification par clé valide et désactiver l'
 
 Générer une clé SSH sur la machine cliente :
 
-ssh-keygen -t rsa -b 4096
+![Capture d'écran 2025-03-15 184222](https://github.com/user-attachments/assets/60e28201-762a-404b-8cc8-a933ac80b513)
+
 
 Copier la clé publique sur le serveur :
 
-ssh-copy-id mon_utilisateur@adresse_du_serveur
 ![image](https://github.com/user-attachments/assets/ddcc1125-0344-4e33-9008-dd8c1a3424b3)
