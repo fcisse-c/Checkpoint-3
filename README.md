@@ -16,9 +16,7 @@ Q.1.1.3 :
 
 ![image](https://github.com/user-attachments/assets/7b9e1c27-31c9-4ad0-8c03-eb741a2a42d2)
 
-Q.1.1.4 : Archiver le dossier de Kelly Rhameur et créer celui de Lionel Lemarchand
-Accédez à l'emplacement des profils utilisateurs sur le serveur.
-Compressez (archivez) le dossier de Kelly Rhameur, par exemple avec un outil comme ZIP.
+
 
 
 ### Partie 2 : Restriction utilisateurs
@@ -73,11 +71,6 @@ Q.2.2.2 -
 
 Q.2.2.3 - Mettre en place une authentification par clé valide et désactiver l'authentification par mot de passe
 
-Générer une clé SSH sur la machine cliente :
-
 ![Capture d'écran 2025-03-15 184222](https://github.com/user-attachments/assets/60e28201-762a-404b-8cc8-a933ac80b513)
 
 
-Copier la clé publique sur le serveur :
-
-![image](https://github.com/user-attachments/assets/ddcc1125-0344-4e33-9008-dd8c1a3424b3)
