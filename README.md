@@ -12,17 +12,10 @@ Q.1.1.2 :
 
 ![image](https://github.com/user-attachments/assets/2f69eddd-b76b-454f-893e-5b2ec446fe18)
 
-Déplacez le compte vers "DeactivatedUsers" :
+Q.1.1.3 : 
 
-Faites un clic droit, sélectionnez Déplacer, et choisissez la nouvelle OU.
 ![image](https://github.com/user-attachments/assets/7b9e1c27-31c9-4ad0-8c03-eb741a2a42d2)
 
-
-Q.1.1.3 : Modifier le groupe de l'OU dans laquelle était Kelly Rhameur
-Toujours dans ADUC, localisez l'OU d'origine de Kelly Rhameur.
-Sélectionnez les Propriétés de l'OU.
-
-Accédez à l'onglet Groupes, puis ajoutez ou supprimez les groupes nécessaires.
 
 Q.1.1.4 : Archiver le dossier de Kelly Rhameur et créer celui de Lionel Lemarchand
 Accédez à l'emplacement des profils utilisateurs sur le serveur.
