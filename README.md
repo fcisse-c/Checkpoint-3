@@ -1,4 +1,4 @@
-# Checkpoint 3
+# Projet 3
 ## Exercice 1
 
 ### Partie 1 : Gestion des utilisateurs
